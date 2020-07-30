@@ -1,7 +1,7 @@
 import requests
 import hashlib
 import sys
-password = input("şifrenizi giriniz :")
+print("şifrenizi giriniz :")
 
 
 def request_api_data(query_char):
